@@ -4,7 +4,7 @@
 ## Setup
 
 1. Clone the repository
-2. Install dependencies: `npm install`
+2. Install dependencies: Node.js, visual studio code, `npm install`
 3. Run the app: `npm start`
 4. Install Cypress by running the  command in your terminal: `npm install cypress --save-dev`
 
